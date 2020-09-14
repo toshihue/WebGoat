@@ -1,4 +1,4 @@
-# Changed in forked Github repo
+# Updated in forked Github repo
 
 # WebGoat 8: A deliberately insecure Web Application
 
